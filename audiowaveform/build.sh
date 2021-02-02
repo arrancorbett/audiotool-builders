@@ -74,9 +74,9 @@ cd boost_1_69_0
 cd /
 
 # Build audiowaveform
-wget https://github.com/bbc/audiowaveform/archive/1.4.0.tar.gz
-tar xzf 1.4.0.tar.gz
-mv audiowaveform-1.4.0 audiowaveform
+wget https://github.com/bbc/audiowaveform/archive/1.4.2.tar.gz
+tar xzf 1.4.2.tar.gz
+mv audiowaveform-1.4.2 audiowaveform
 cd $_
 mkdir build
 cd $_
